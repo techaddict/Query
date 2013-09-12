@@ -12,8 +12,8 @@ The Work is divided into two steps:
   Map queries into concept
   Look up the suffix tree and suggest queries
   
-  How to run
-  ----------
+How to run
+----------
   
-  g++ main.cpp
-  ./a.out input_file //input file should be your data log
+g++ main.cpp
+./a.out input_file //input file should be your data log
