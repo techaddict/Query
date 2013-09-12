@@ -17,3 +17,5 @@ How to run
   
 g++ main.cpp
 ./a.out input_file //input file should be your data log
+
+Due to copyright issues we cannot share the dataset in public.
